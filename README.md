@@ -9,5 +9,5 @@
 
 
 <h3 align = "left"> Idiomas e ferramentas : </h3>
-<p> - Java, SpringBoot, C#, SQL Server, API Rest Angular, Typescript, HTML, CSS </p>
+<p> - Java, SpringBoot, C#, SQL Server, API Rest, Angular, Typescript, HTML, CSS </p>
 
