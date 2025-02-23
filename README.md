@@ -7,7 +7,7 @@
 - 🎓 **Graduando Tecnologia em Análise e Desenvolvimento de Sistemas** - Faculdade de Tecnologia da Zona Leste (**FATEC ZONA LESTE**)  
 - 🖥️ **Técnico em Informática** - Concluído em 2014 - Serviço Nacional de Aprendizagem Comercial (**SENAC**)  
 
-## 🌎 Idiomas e 🛠️ Ferramentas  
+## 🛠️ Ferramentas  
 
 ### **Linguagens de Programação**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
